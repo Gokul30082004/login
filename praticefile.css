@@ -1,0 +1,87 @@
+body
+{
+  background-color:#f1f1f1;
+}
+.whole-form
+{
+  max-height: 100vh;
+  border-radius:20px;
+  margin-top:10%;
+  margin-left:20%;
+  margin-right:20%;
+  justify-content:center;
+  align-items:center;
+  background-color:white;
+  display:flex; 
+}
+.forgetpass
+{
+  margin-left:10px;
+}
+.Form
+{
+  background-color:white;
+  width:210px;
+  padding:10px;
+}
+.Form input
+{
+  border: transparent;
+  width: 200px;
+  background-color:rgb(241 241 241);
+  border-color:rgb(241 241 241);
+  border-radius:10px;
+  height:30px;
+  text-align:left;
+}
+.Form .Button
+{
+  color:white;
+  background-color:#0352BD;
+  border-radius:20px;
+  line-height:2;
+  width:100px;
+  border-color:#0352BD;
+  margin-left:25%;
+  justify-content:center;
+  border-color:#0352BD;
+  border: transparent;
+}
+body
+{
+  font-family:arial;
+}
+
+.input-box
+{
+  background-color:#f1f1f1;
+  line-height:1.5;
+  border-radius:5px;
+  text-align:center;
+}
+
+.Form a
+{
+  text-decoration:none;
+  marigin-left:15%;
+  font-size:10px;
+  color:blue;
+}
+a:hover
+{
+  text-decoration:underline;
+}
+img{
+  width:250px;
+  height:270px;
+  margin-top:0%;
+}
+.eye
+{
+    z-index: 1;
+    padding: 5px;
+    margin-top: 7px;
+    margin-left: -35px;
+    border:transparent;
+    color:blue;
+}
